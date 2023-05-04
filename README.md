@@ -8,6 +8,6 @@ We invite you to accept the battle and create your own messaging app in C. Right
 
 
 Team-members: Roman Medvid - client part.
-              Matvij Manekin - server part, DB.
-              Maksym Poljuha - UI/UX, DB.
+              Matvij Manekin (https://github.com/mmwsp) - server part, DB.
+              Maksym Poljuha (https://github.com/RTWX) - UI/UX, DB.
               Bohdan Synjahovskyj - server/client.
